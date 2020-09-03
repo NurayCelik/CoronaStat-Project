@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\obj\Debug\netcoreapp2.1\CoronaStat.API.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\obj\Debug\netcoreapp2.1\CoronaStat.API.RazorAssemblyInfo.cache
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\obj\Debug\netcoreapp2.1\CoronaStat.API.RazorAssemblyInfo.cs
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\obj\Debug\netcoreapp2.1\CoronaStat.API.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\obj\Debug\netcoreapp2.1\CoronaStat.API.AssemblyInfo.cs
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\bin\Debug\netcoreapp2.1\CoronaStat.API.deps.json
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\bin\Debug\netcoreapp2.1\CoronaStat.API.runtimeconfig.json
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\bin\Debug\netcoreapp2.1\CoronaStat.API.runtimeconfig.dev.json
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\bin\Debug\netcoreapp2.1\CoronaStat.API.dll
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\bin\Debug\netcoreapp2.1\CoronaStat.API.pdb
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\obj\Debug\netcoreapp2.1\CoronaStat.API.RazorTargetAssemblyInfo.cache
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\obj\Debug\netcoreapp2.1\CoronaStat.API.dll
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\obj\Debug\netcoreapp2.1\CoronaStat.API.pdb
+C:\Users\casper\source\repos\CoronaStat.API\CoronaStat.API\obj\Debug\netcoreapp2.1\CoronaStat.API.csprojAssemblyReference.cache
